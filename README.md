@@ -14,7 +14,3 @@ Feasible solutions using Blockchain concepts for present Organ Donation Problems
 - Ganache
 - Metamask
 - Visual Studio Code
-
-### Team Member :
-- Kandala Sai Krishna
-- Jagirdar Rohit
